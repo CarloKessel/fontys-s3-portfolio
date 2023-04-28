@@ -1,6 +1,4 @@
-﻿Reader’s Guide for Semester 3 Portfolio
-
-
+﻿# Reader’s Guide for Semester 3 Portfolio
 
 Carlo van Kessel 
 
@@ -16,7 +14,7 @@ V9
 
 
 
-Version control 
+# Version control 
 
 |Version|Changes|
 | :- | :- |
@@ -32,150 +30,150 @@ Version control
 |||
 
 
-# Table of contents
-[1.	Introduction	5](#_toc124602288)
+## Table of contents
+- [1. Introduction](#L169)
 
-[2.	Learning outcomes	6](#_toc124602289)
+- [2.	Learning outcomes](#)
 
-[1.	Web application	6](#_toc124602290)
+   - [1.	Web application](#)
 
-[Where can I find this:	6](#_toc124602291)
+      - [Where can I find this:	](#)
 
-[2.	Software quality	6](#_toc124602292)
+   - [2.	Software quality	](#)
 
-[Where can I find this:	6](#_toc124602293)
+      - [Where can I find this:	](#)
 
-[3.	Agile method	6](#_toc124602294)
+   - [3.	Agile method	](#)
 
-[Where can I find this:	6](#_toc124602295)
+      - [Where can I find this:	](#)
 
-[4.	CI/CD	7](#_toc124602296)
+   - [4.	CI/CD	](#)
 
-[Where can I find this:	7](#_toc124602297)
+      - [Where can I find this:	](#)
 
-[5.	Cultural differences and ethics	7](#_toc124602298)
+   - [5.	Cultural differences and ethics	](#)
 
-[Where can I find this:	7](#_toc124602299)
+      - [Where can I find this:	](#)
 
-[6.	Requirements and design	7](#_toc124602300)
+   - [6.	Requirements and design	](#)
 
-[Where can I find this:	7](#_toc124602301)
+      - [Where can I find this:	](#)
 
-[7.	Business processes	8](#_toc124602302)
+   - [7.	Business processes	](#)
 
-[Where can I find this:	8](#_toc124602303)
+      -  [Where can I find this:	](#)
 
-[8.	Professional	8](#_toc124602304)
+   -  [8.	Professional	](#)
 
-[Where can I find this:	8](#_toc124602305)
+      -  [Where can I find this:	](#)
 
-[3.	Research	9](#_toc124602306)
+- [3.	Research	](#)
 
-[3.1	Agile	9](#_toc124602307)
+   -  [3.1	Agile	](#)
 
-[3.2	Full stack	9](#_toc124602308)
+   -  [3.2	Full stack	](#)
 
-[3.3	Ethics and Cultural differences	9](#_toc124602309)
+   -  [3.3	Ethics and Cultural differences	](#)
 
-[3.4	Business process	9](#_toc124602310)
+   -  [3.4	Business process	](#)
 
-[3.5	Security research project (DOT)	9](#_toc124602311)
+   -  [3.5	Security research project (DOT)	](#)
 
-[4.	Individual project (WorkoutTracking)	10](#_toc124602312)
+- [4.	Individual project (WorkoutTracking)	](#)
 
-[4.1	Design	11](#_toc124602313)
+   -  [4.1	Design	](#)
 
-[4.2	CI/CD	11](#_toc124602314)
+   -  [4.2	CI/CD	](#)
 
-[Frontend CI	11](#_toc124602315)
+      -  [Frontend CI	](#)
 
-[Frontend CD	11](#_toc124602316)
+      -  [Frontend CD	](#)
 
-[Backend CI	11](#_toc124602317)
+      -  [Backend CI	](#)
 
-[My CI/CD workflows:	11](#_toc124602318)
+      -  [My CI/CD workflows:	](#)
 
-[4.3	Software Quality	12](#_toc124602319)
+   -  [4.3	Software Quality	](#)
 
-[4.4	Data Persistency	12](#_toc124602320)
+   -  [4.4	Data Persistency	](#)
 
-[4.4.1	ORM	12](#_toc124602321)
+      -  [4.4.1	ORM	](#)
 
-[4.4.2	Database	13](#_toc124602322)
+      -  [4.4.2	Database	](#)
 
-[5.	Group project (World Of Content, Is It Live?)	14](#_toc124602323)
+- [5.	Group project (World Of Content, Is It Live?)	](#)
 
-[5.1	Agile	14](#_toc124602324)
+   -  [5.1	Agile	](#)
 
-[5.2	UX Design	14](#_toc124602325)
+   -  [5.2	UX Design	](#)
 
-[5.3	Version control and planning	14](#_toc124602326)
+   -  [5.3	Version control and planning	](#)
 
-[5.4	Software design and requirements	14](#_toc124602327)
+   -  [5.4	Software design and requirements	](#)
 
-[5.5	Professionalism	14](#_toc124602328)
+   -  [5.5	Professionalism	](#)
 
-[5.6	My contribution	15](#_toc124602329)
+   -  [5.6	My contribution	](#)
 
-[5.6.1	Scraper with Jarno	15](#_toc124602330)
+      -  [5.6.1	Scraper with Jarno	](#)
 
-[5.6.2	Lambda Python functions	15](#_toc124602331)
+      -  [5.6.2	Lambda Python functions	](#)
 
-[6.	Reflection	16](#_toc124602332)
+- [6.	Reflection	](#)
 
-[6.1	What did I learn?	16](#_toc124602333)
+   -  [6.1	What did I learn?	](#)
 
-[6.2	What went well?	16](#_toc124602334)
+   -  [6.2	What went well?	](#)
 
-[6.3	What could be improved?	16](#_toc124602335)
+   -  [6.3	What could be improved?	](#)
 
-[6.4	Final reflection	17](#_toc124602336)
+   -  [6.4	Final reflection	](#)
 
-[6.4.1	Web Application	17](#_toc124602337)
+      -  [6.4.1	Web Application	](#)
 
-[6.4.2	Software quality	17](#_toc124602338)
+      -  [6.4.2	Software quality	](#)
 
-[6.4.3	Agile method	17](#_toc124602339)
+      -  [6.4.3	Agile method	](#)
 
-[6.4.4	CI/CD	17](#_toc124602340)
+      -  [6.4.4	CI/CD](#)
 
-[6.4.5	Cultural differences and ethics	17](#_toc124602341)
+      -  [6.4.5	Cultural differences and ethics](#)
 
-[6.4.6	Requirements and design	17](#_toc124602342)
+      -  [6.4.6	Requirements and design](#)
 
-[6.4.7	Business process	17](#_toc124602343)
+      - [6.4.7	Business process](#)
 
-[6.4.8	Professional	18](#_toc124602344)
+      - [6.4.8	Professional](#)
 
-[6.5	Reflection (12-12-2022)	19](#_toc124602345)
+   - [6.5	Reflection (12-12-2022)](#)
 
-[6.5.1	Web Application	19](#_toc124602346)
+      - [6.5.1	Web Application](#)
 
-[6.5.2	Software quality	19](#_toc124602347)
+      - [6.5.2	Software quality](#)
 
-[6.5.3	Agile method	19](#_toc124602348)
+      - [6.5.3	Agile method](#)
 
-[6.5.4	CI/CD	19](#_toc124602349)
+      - [6.5.4	CI/CD](#)
 
-[6.5.5	Cultural differences and ethics	19](#_toc124602350)
+      -  [6.5.5	Cultural differences and ethics](#)
+      
+      -  [6.5.6	Requirements and design](#)
+      
+      - [6.5.7	Business process](#)
 
-[6.5.6	Requirements and design	19](#_toc124602351)
+      - [6.5.8	Professional](#)
 
-[6.5.7	Business process	19](#_toc124602352)
 
-[6.5.8	Professional	19](#_toc124602353)
 
 
-
-
-1. # <a name="_toc124602288"></a>Introduction 
+## 1. Introduction 
 This document serves as a reader’s guide for my semester 3 portfolio of the bachelor’s program of ICT. This portfolio contains the products I have created and developed during this semester. These products will prove that I have gained knowledge to fulfil the learning outcomes. This guide provides a summary of the different products, and points to the files which contain the fully worked-out versions of the subject. 
 
 This reader’s guide is divided into 6 sections, including this introduction. In the second section there will be the learning outcomes explained and where you can find the execution. In the third section, I have short descriptions of all the research I have done this semester. The fourth section is about my individual project, what this is and how I designed/developed it. In the fifth section I will explain the group project and what my contributions where in this project. And at the last section I will reflect on this semester with everything that went well and the things I can still improve on. 
 
 
-1. # <a name="_toc124602289"></a>Learning outcomes
-1. ## <a name="_toc124602290"></a>Web application
+## 2. Learning outcomes
+### 1. Web application
 You design and build **user-friendly**, **full-stack** web applications**.** 
 
 Clarification: 
@@ -184,47 +182,47 @@ Clarification:
 
 **Full-stack**: You design and build a full stack application using a commonly accepted front end JavaScript framework and back end application implementing relevant communication protocols, persistence of data by usage of ORM and addressing asynchronous communication issues.
 
-### <a name="_toc124602291"></a>Where can I find this: 
+### Where can I find this: 
 - [4. Individual Project (WorkoutTracking)](#_individual_project_\(workouttracking)
 - [4.4 Data Persistency Individual Project](#_data_persistency)
 
 
-1. ## <a name="_toc124602292"></a>Software quality
+## 2. Software quality
 You use software **tooling and methodology** that continuously monitors and improve the software quality during software development.
 
 Clarification:
 
 **Tooling and methodology:** Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well as applying static code analysis and code reviews.
 
-### <a name="_toc124602293"></a>Where can I find this: 
+### Where can I find this: 
 - [4.3 Software Quality Individual Project ](#_software_quality) 
 - [3.6 Security research project (DOT)](#_security_research_project)
 
-1. ## <a name="_toc124602294"></a>Agile method
+## 3. Agile method
 You **choose** and implement the most suitable agile software development method for your software project.
 
 Clarification:
 
 **Choose**: You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses.
 
-### <a name="_toc124602295"></a>Where can I find this: 
+### Where can I find this: 
 - [3.1 Agile](#_agile)
 - [5.1 Agile Group Project](#_agile_2)
 - [5.3 Version control and planning Group Project](#_version_control_and) 
 
 
-1. ## <a name="_toc124602296"></a>CI/CD
+## 4. CI/CD
 You **design and implement** a (semi)automated software release process that matches the needs of the project context.
 
 Clarification:
 
 **Design and implement**: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
-### <a name="_toc124602297"></a>Where can I find this: 
+### Where can I find this: 
 - [4.2 CI/CD Individual Project](#_ci/cd) 
 - [4.3 Software Quality Individual Project ](#_software_quality) 
 
-1. ## <a name="_toc124602298"></a>Cultural differences and ethics
+## 5. Cultural differences and ethics
 You **recognize** and **take into account** cultural differences between project stakeholders and ethical aspects in software development.
 
 Clarifications:
@@ -235,7 +233,7 @@ Clarifications:
 
 Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
 
-### <a name="_toc124602299"></a>Where can I find this: 
+### Where can I find this: 
 - [3.3 Ethics and Cultural differences](#_ethics_and_cultural)
 
 1. ## <a name="_toc124602300"></a>Requirements and design 
